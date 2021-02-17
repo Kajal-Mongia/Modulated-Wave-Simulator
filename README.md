@@ -15,6 +15,12 @@ The high frequency signal, which has a certain amplitude, frequency and phase bu
 The resultant signal after the process of modulation is called a modulated signal. This signal is a combination of modulating signal and carrier signal.
 
 ## Project
-The Modulated Wave Simulator is used to simulate the three different modulations viz., **Amplitude Modulation**, **Frequency Modulation**, **Phase Modulation**. The user is asked to input the various parameters required to simulate carrier and message signal. The program then generates the modulated signal.
+The Modulated Wave Simulator is used to simulate the three different modulations viz., **Amplitude Modulation**, **Frequency Modulation**, **Phase Modulation**. The user is asked to input the various parameters required to simulate carrier and message signal. The program then generates the modulated signal. The project is built using the graphics.h library in c++.
 
-
+### Screenshots
+![](Screenshots/Capture.PNG)
+![](Screenshots/Capture2.PNG)
+![](Screenshots/Capture3.PNG)
+![](Screenshots/Capture4.PNG)
+![](Screenshots/Capture5.PNG)
+![](Screenshots/Capture6.PNG)
